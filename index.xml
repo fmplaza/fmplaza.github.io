@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flor Plaza</title>
+    <link>https://fmplaza.github.io/</link>
+    <description>Recent content on Flor Plaza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://fmplaza.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/gallery/</guid>
+      <description>Gallery 📸 A photo tour of several conferences I have attended/participated in 🌍, along with memorable award ceremonies! 🏆
+EMNLP 2024, Miami, USA 🇺🇸
+🏆 National Young Researcher Award in Informatics by the SCIE and BBVA Foundation. Madrid, Spain 🇪🇸
+🏆 SEPLN 2024, Best PhD thesis award. Valladolid, Spain 🇪🇸
+LREC-COLING 2024, Torino, Italy 🇮🇹
+ACL 2023, Toronto, Canada 🇨🇦
+AETER 2022, Madrid, Spain 🇪🇸
+LREC 2022, Marseille, France 🇫🇷</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/publications/</guid>
+      <description>Publications 📄 You can access my full list of publications on my Google Scholar profile.
+Selected publications 2025 Justin Zhao Flor Miriam Plaza-del-Arco, Benjie Genchel, Amanda Cercas Curry. Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks. NAACL 2025. [PDF] 2024 Flor Miriam Plaza-del-Arco, Amanda Cercas Curry, Susanna Paoli, Alba Curry, Dirk Hovy. Divine LLaMAs: Bias, Stereotypes, Stigmatization, and Emotion Representation of Religion in Large Language Models. EMNLP 2024 (Findings).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/resources/</guid>
+      <description>Resources 📚 (Click on the respective link to download the resource or read the paper)
+Corpora OffendES: A New Corpus in Spanish for Offensive Language Research [Hugging Face] [Paper] OffendES_spans: An extension of OffendES with Span annotations [Resource] [Paper] EmoEvent: A Multilingual Emotion Corpus based on different Events [Hugging Face] [Paper] Lexicons SHARE: A Lexicon of Harmful Expressions by Spanish Speakers [Resource] [Paper] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/talks/</guid>
+      <description>Talks 🗣 2025 “Emotion Analysis in NLP: Challenges, Applications and Ethics”. Spanish Society for Natural Language Processing. Chapter of SEPLN talks. Online. March 2025. 2024 &amp;ldquo;Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution”. Workshop on New Perspectives on Bias and Discrimination in Language Technology. University of Amsterdam. November 2024. “Wisdom of Instruction-Tuned Language Model Crowds. Exploring Model Label Variation”. Amazon Web Services RAI Scientific Meeting: Online.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/teaching/</guid>
+      <description>Teaching 👩🏻‍🏫 2024 Natural Language Processing. MSc in Data Science and Business Analytics. Bocconi University, Milan, Italy. 2022 Human-Computer Interaction. Bachelor in Computer Science. University of Jaén, Spain. 2021 Natural Language Processing. Bachelor in Computer Science. University of Jaén, Spain. Information Retrieval. Bachelor in Computer Science. University of Jaén, Spain. 2020 Operating Systems. Bachelor in Computer Science. University of Jaén, Spain. Programming. Bachelor in Industrial Organization. University of Jaén, Spain. Supervision Master’s thesis Andrea Sorteni.</description>
+    </item>
+    
+  </channel>
+</rss>
